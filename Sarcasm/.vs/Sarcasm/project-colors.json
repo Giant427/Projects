@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "830a5b1f-ad0f-4672-a172-fd8d985e115d": {
+      "ProjectGuid": "830a5b1f-ad0f-4672-a172-fd8d985e115d",
+      "DisplayName": "Sarcasm",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
